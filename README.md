@@ -16,4 +16,4 @@ This is a job application tracker with a stats dashboard included. Users are abl
 - Styled components
 
 ## Script to run locally
-`npm start`
+`npm i && npm start`
