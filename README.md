@@ -2,7 +2,7 @@
 
 ## About
 This is a job application tracker with a stats dashboard included. Users are able to:
-- Login
+- Register and login
 - Create, update and delete job applications
 - View all job applications
 - View (charted) statistics in dashboard
