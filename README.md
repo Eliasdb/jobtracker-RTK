@@ -1,13 +1,16 @@
 # Jobster
 
 ## About
+
 This is a job application tracker with a stats dashboard included. Users are able to:
+
 - Register and login
 - Create, update and delete job applications
 - View all job applications
 - View (charted) statistics in dashboard
 
 ## Used tech
+
 - React
 - Redux Toolkit
 - Axios
@@ -16,4 +19,7 @@ This is a job application tracker with a stats dashboard included. Users are abl
 - Styled components
 
 ## Script to run locally
+
 `npm i && npm start`
+
+## [Live](https://job-tracker-rtk.netlify.app/landing)
